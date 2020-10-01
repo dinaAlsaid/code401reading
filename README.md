@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# code301reading
 
-You can use the [editor on GitHub](https://github.com/dinaAlsaid/code401reading/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[HOME](https://dinaalsaid.github.io/reading-notes/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of Contents
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dinaAlsaid/code401reading/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+subject | brief
+--------|--------
+[class 01](https://dinaalsaid.github.io/code401reading/class-01)|des
+[class 02](https://dinaalsaid.github.io/code401reading/class-02)|des
+[class 03](https://dinaalsaid.github.io/code401reading/class-03)|des
+[class 04](https://dinaalsaid.github.io/code401reading/class-04)|des
+[class 05](https://dinaalsaid.github.io/code401reading/class-05)|des
+[class 06](https://dinaalsaid.github.io/code401reading/class-06)|des
+[class 07](https://dinaalsaid.github.io/code401reading/class-07)|des
+[class 08](https://dinaalsaid.github.io/code401reading/class-08)|des
+[class 09](https://dinaalsaid.github.io/code401reading/class-09)|des
+[class 10](https://dinaalsaid.github.io/code401reading/class-10)|des
+[class 11](https://dinaalsaid.github.io/code401reading/class-11)|des
+[class 12](https://dinaalsaid.github.io/code401reading/class-12)|des
+[class 13](https://dinaalsaid.github.io/code401reading/class-13)|des
+[class 14](https://dinaalsaid.github.io/code401reading/class-14)|des
+[class 15](https://dinaalsaid.github.io/code401reading/class-15)|des
