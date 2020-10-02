@@ -6,6 +6,7 @@
 
 subject | brief
 --------|--------
+[class 00](https://dinaalsaid.github.io/code401reading/class-00)|Prep notes
 [class 01](https://dinaalsaid.github.io/code401reading/class-01)|des
 [class 02](https://dinaalsaid.github.io/code401reading/class-02)|des
 [class 03](https://dinaalsaid.github.io/code401reading/class-03)|des
