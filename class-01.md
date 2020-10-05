@@ -44,4 +44,44 @@ If initialValue is provided it will be used as the first value in the callbackFu
 
 1. Using then():
 
+```javascript
+let url2 = "https://animechanapi.xyz/api/quotes/random";
+superAgent(url).then((result) => {
+    console.log(result);
+}
+```
+
+in this case the supreagent will send an HTTP request and create a promise then excute anything that is after (excluding what's inside the then() ). Then when the a response is recieved, the callback function inside then() is called (usually the code excuted depends on the data recieved from the response).
+
 2. Using async/await :
+
+```javascript
+let url2 = "https://animechanapi.xyz/api/quotes/random";
+(async () =>{
+    try {
+    let result = await superAgent(url);
+    console.log(result)
+    } catch {/*error handle*/}
+})();
+```
+
+The async will define an asynchronous function and the await will stop the code excution (code that has the await) until the asynchronous function is completed. so in theory it does the same thing as the .then method.
+notice that await doesn't work in top level code.(needs an async/ used in a function).
+
+3. callback functions:
+
+A callback function in itself is not asynchronous.
+In general, for a function to be asynchronous when taking a callback function, it should be considered how the callback function is used in the original function.
+For example the callback function in an array method can't be asynchronous since some of the current values of the callback function will depend on previous outputs.
+
+The next example, the callback function is called asynchronously.
+
+```javascript
+function readFileAsUtf8(filename, callback)
+    fs.readFile(filename, "utf8", function(err, data) =>  {
+        callback(data);
+    });
+}
+```
+
+The callback function will be called only after the file contents have been read at some point in the future.
