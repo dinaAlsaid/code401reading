@@ -7,8 +7,8 @@
 subject | brief
 --------|--------
 [class 00](https://dinaalsaid.github.io/code401reading/class-00)|Prep notes
-[class 01](https://dinaalsaid.github.io/code401reading/class-01)|des
-[class 02](https://dinaalsaid.github.io/code401reading/class-02)|des
+[class 01](https://dinaalsaid.github.io/code401reading/class-01)|Review
+[class 02](https://dinaalsaid.github.io/code401reading/class-02)|Classes, Inheritance
 [class 03](https://dinaalsaid.github.io/code401reading/class-03)|des
 [class 04](https://dinaalsaid.github.io/code401reading/class-04)|des
 [class 05](https://dinaalsaid.github.io/code401reading/class-05)|des
