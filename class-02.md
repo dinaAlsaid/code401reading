@@ -38,13 +38,13 @@ module.exports.SimpleMessage = 'Hello world';
 
 ## Terms
 
-ecosystem: all the node.js files, packages, server, modules and libraries and the relations between them that help create a fully functional Node app.
-Node.js: JavaScript runtime ( includes everything you need to execute a program) built on Chrome's V8 JavaScript engine.
-V8 Engine: V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++
-module:Is the smallest piece of software. A module is a set of methods or functions ready to be used somewhere else.
-package:a collection of modules that gather a number of modules holding in general the same functional purpose.
-node package manager (npm): npm is the world’s largest software registry used to share and install packages
-server: a piece of computer hardware or software (software in our case) that provides functionality for other programs or devices, called "clients".
-environment: is a base on top of which we can do our programming, where you can define variables to control the conditions at which the program is run.
-interpreter: coverts each high-level program statement, one by one, into the machine code, during program run.
-compiler: transforms code written in a high-level programming language into the machine code, at once, before program runs.
+* ecosystem: all the node.js files, packages, server, modules and libraries and the relations between them that help create a fully functional Node app.
+* Node.js: JavaScript runtime ( includes everything you need to execute a program) built on Chrome's V8 JavaScript engine.
+* V8 Engine: V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++
+* module:Is the smallest piece of software. A module is a set of methods or functions ready to be used somewhere else.
+* package:a collection of modules that gather a number of modules holding in general the same functional purpose.
+* node package manager (npm): npm is the world’s largest software registry used to share and install packages
+* server: a piece of computer hardware or software (software in our case) that provides functionality for other programs or devices, called "clients".
+* environment: is a base on top of which we can do our programming, where you can define variables to control the conditions at which the program is run.
+* interpreter: coverts each high-level program statement, one by one, into the machine code, during program run.
+* compiler: transforms code written in a high-level programming language into the machine code, at once, before program runs.
