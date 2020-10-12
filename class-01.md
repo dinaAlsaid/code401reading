@@ -18,8 +18,8 @@ let new_array = arr.map(function callback( currentValue[, index[, array]]) {
     // return element for new_array
 })
 ```
-
-**Note**: The callback function should have a return value, which is the value pushed to the new array. -->
+-->
+**Note**: The callback function should have a return value, which is the value pushed to the new array. 
 
 ### Reduce
 
