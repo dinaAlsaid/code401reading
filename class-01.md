@@ -85,3 +85,34 @@ function readFileAsUtf8(filename, callback)
 ```
 
 The callback function will be called only after the file contents have been read at some point in the future.
+
+## Node and npm
+
+### Node
+Node.js is an open source server environment that works with different platforms. node.js is a JavaScript runtime ( includes everything you need to execute a program) built on Chrome’s V8 JavaScript engine.
+it uses asynchronous programming.
+
+#### how Node.js handles a file request
+
+1. Sends the task to the computer's file system.
+2. Ready to handle the next request.
+3. When the file system has opened and read the file, the server returns the content to the client.
+
+Node.js uses an event-driven, non-blocking I/O model (handle requests in parallel) that makes it lightweight and efficient.
+
+### npm
+
+npm is the world’s largest software registry. Open source developers from every continent use npm to share and borrow packages.
+
+you can use it to:
+
+* Adapt packages of code for your apps, or incorporate packages as they are.
+* Download standalone tools you can use right away.
+* Run packages without downloading.
+* Share code with any npm user.
+* Restrict code to specific developers.
+* Create Orgs (organizations) to coordinate package maintenance, coding, and developers.
+* Manage multiple versions of code and code dependencies.
+* Update applications easily when underlying code is updated.
+* Discover multiple ways to solve the same puzzle.
+* Find other developers who are working on similar problems and projects.
