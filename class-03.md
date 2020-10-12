@@ -75,21 +75,21 @@ examples of NoSQL databases:
 
 ## NOSQL DATA MODELING TECHNIQUES
 
-Denormalization
-Aggregates
-Application Side Joins
-Atomic Aggregates
-Enumerable Keys
-Dimensionality Reduction
-Index Table
-Composite Key Index
-Aggregation with Composite Keys
-Inverted Search – Direct Aggregation
-Tree Aggregation
-Adjacency Lists
-Materialized Paths
-Nested Sets
-Nested Documents Flattening: Numbered Field Names
-Batch Graph Processing
+* Denormalization
+* Aggregates
+* Application Side Joins
+* Atomic Aggregates
+* Enumerable Keys
+* Dimensionality Reduction
+* Index Table
+* Composite Key Index
+* Aggregation with Composite Keys
+* Inverted Search – Direct Aggregation
+* Tree Aggregation
+* Adjacency Lists
+* Materialized Paths
+* Nested Sets
+* Nested Documents Flattening: Numbered Field Names
+* Batch Graph Processing
 
 [for more info on these techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-technique)
