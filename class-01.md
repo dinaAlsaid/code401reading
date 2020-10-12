@@ -11,15 +11,7 @@
 Map is an array method that loops through the array and performs a function on its items, then returns a **new** array with the **same length** of the original array.
 
 it will take each item in the array and perform a function on it and then put it in a new array. the new array should be the same length as the original.
-<!-- * Syntax
 
-```javascript
-let new_array = arr.map(function callback( currentValue[, index[, array]]) {
-    // return element for new_array
-})
-```
-
-**Note**: The callback function should have a return value, which is the value pushed to the new array. -->
 
 ### Reduce
 
@@ -27,21 +19,7 @@ Reduce is an array method that loops through the array and performs a reducer fu
 
 it will take each item in the array and perform a function on it and then it will put it in a variable with a certain type and take the next item in the array and repeat. at the end there will be a resulting single value.
 
-<!-- * Syntax
 
-```javascript
-arr.reduce(callbackFunction( accumulator, currentValue, index, array) , initialValue);
-```
-
-The accumulator: is the accumulated value previously returned in the last invocation of the callbackFunction.
-The currentValue: is the current element value used in the callbackFunction.
-The index: is the index of the current value.
-The array: is the array the reduce method is used on.
-The initialValue: is the initial value used in the first invocation of the callbackFunction (it also dictates the type of the returned value).
-
-**Note**: The initialValue, index and the array are optional.
-If initialValue is not provided the index will start from 1 and the first value of the accumulator will be the first element in the array.
-If initialValue is provided it will be used as the first value in the callbackFunction and the index will start from 0. -->
 
 ### Promises
 
