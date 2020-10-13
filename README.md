@@ -10,7 +10,7 @@ subject | brief
 [class 01](https://dinaalsaid.github.io/code401reading/class-01)|Review
 [class 02](https://dinaalsaid.github.io/code401reading/class-02)|Classes, Inheritance
 [class 03](https://dinaalsaid.github.io/code401reading/class-03)|Data Modeling & NoSQL Databases
-[class 04](https://dinaalsaid.github.io/code401reading/class-04)|des
+[class 04](https://dinaalsaid.github.io/code401reading/class-04)|Advanced Mongo/Mongoose
 [class 05](https://dinaalsaid.github.io/code401reading/class-05)|des
 [class 06](https://dinaalsaid.github.io/code401reading/class-06)|des
 [class 07](https://dinaalsaid.github.io/code401reading/class-07)|des
