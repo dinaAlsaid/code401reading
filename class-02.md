@@ -48,3 +48,20 @@ module.exports.SimpleMessage = 'Hello world';
 * environment: is a base on top of which we can do our programming, where you can define variables to control the conditions at which the program is run.
 * interpreter: coverts each high-level program statement, one by one, into the machine code, during program run.
 * compiler: transforms code written in a high-level programming language into the machine code, at once, before program runs.
+
+## Context and 'this'
+
+Can be simply described as the value of this pointer. which can refer to an object, the window object or a function.
+the context can be changed using three methods (call, apply, bind)
+
+* Inside a function, the value of this depends on how the function is called.
+in non strict mode, and because the value of this is not set by the call, this will default to the global object, which is window in a browser.
+In strict mode, however, if the value of this is not set when entering an execution context, it remains as undefined.
+
+* in classes and functions is similar, since classes are functions.
+
+## inheretence
+
+When it comes to inheritance, JavaScript only has one construct: objects. Each object has a private property which holds a link to another object called its prototype. That prototype object has a prototype of its own, and so on until an object is reached with null as its prototype. By definition, null has no prototype, and acts as the final link in this prototype chain.
+JavaScript does not have "methods" in the form that class-based languages define them. In JavaScript, any function can be added to an object in the form of a property. An inherited function acts just as any other property.
+When an inherited function is executed, the value of this points to the inheriting object, not to the prototype object where the function is an own property.
