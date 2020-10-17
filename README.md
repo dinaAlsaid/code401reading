@@ -12,7 +12,7 @@ subject | brief
 [class 03](https://dinaalsaid.github.io/code401reading/class-03)|Data Modeling & NoSQL Databases
 [class 04](https://dinaalsaid.github.io/code401reading/class-04)|Advanced Mongo/Mongoose
 [class 05](https://dinaalsaid.github.io/code401reading/class-05)|Linked lists and Big O notation
-[class 06](https://dinaalsaid.github.io/code401reading/class-06)|des
+[class 06](https://dinaalsaid.github.io/code401reading/class-06)|HTTP and REST
 [class 07](https://dinaalsaid.github.io/code401reading/class-07)|des
 [class 08](https://dinaalsaid.github.io/code401reading/class-08)|des
 [class 09](https://dinaalsaid.github.io/code401reading/class-09)|des
