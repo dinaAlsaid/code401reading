@@ -19,10 +19,10 @@ REST is not based on any protocol but has a standard architecture principle used
 
 ## terms
 
-SOAP:(Simple Object Access Protocol) a protocol that defines a set of rules for communication using XML-based messaging
-ReST Verbs: GET, PUT, PATCH, DELETE
-CRUD Verbs: Read, Update/Replace, Update/Modify, Delete
-Swagger: is a suite of API developer tools for teams and individuals, enabling development across the entire API lifecycle, from design and documentation, to test and deployment.
+* SOAP:(Simple Object Access Protocol) a protocol that defines a set of rules for communication using XML-based messaging
+* ReST Verbs: GET, PUT, PATCH, DELETE
+* CRUD Verbs: Read, Update/Replace, Update/Modify, Delete
+* Swagger: is a suite of API developer tools for teams and individuals, enabling development across the entire * API lifecycle, from design and documentation, to test and deployment.
 
 ## MiddleWare with an Express application
 
