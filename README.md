@@ -14,7 +14,7 @@ subject | brief
 [class 05](https://dinaalsaid.github.io/code401reading/class-05)|Linked lists and Big O notation
 [class 06](https://dinaalsaid.github.io/code401reading/class-06)|HTTP and REST
 [class 07](https://dinaalsaid.github.io/code401reading/class-07)|middleware
-[class 08](https://dinaalsaid.github.io/code401reading/class-08)|des
+[class 08](https://dinaalsaid.github.io/code401reading/class-08)|Routing
 [class 09](https://dinaalsaid.github.io/code401reading/class-09)|des
 [class 10](https://dinaalsaid.github.io/code401reading/class-10)|des
 [class 11](https://dinaalsaid.github.io/code401reading/class-11)|des
