@@ -17,7 +17,7 @@ subject | brief
 [class 08](https://dinaalsaid.github.io/code401reading/class-08)|Routing
 [class 09](https://dinaalsaid.github.io/code401reading/class-09)|API server
 [class 10](https://dinaalsaid.github.io/code401reading/class-10)|Stacks and Queues
-[class 11](https://dinaalsaid.github.io/code401reading/class-11)|des
+[class 11](https://dinaalsaid.github.io/code401reading/class-11)|Authentication
 [class 12](https://dinaalsaid.github.io/code401reading/class-12)|des
 [class 13](https://dinaalsaid.github.io/code401reading/class-13)|des
 [class 14](https://dinaalsaid.github.io/code401reading/class-14)|des
