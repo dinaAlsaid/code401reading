@@ -19,6 +19,6 @@ subject | brief
 [class 10](https://dinaalsaid.github.io/code401reading/class-10)|Stacks and Queues
 [class 11](https://dinaalsaid.github.io/code401reading/class-11)|Authentication
 [class 12](https://dinaalsaid.github.io/code401reading/class-12)|des
-[class 13](https://dinaalsaid.github.io/code401reading/class-13)|des
+[class 13](https://dinaalsaid.github.io/code401reading/class-13)|JWT
 [class 14](https://dinaalsaid.github.io/code401reading/class-14)|des
 [class 15](https://dinaalsaid.github.io/code401reading/class-15)|des
