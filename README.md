@@ -20,5 +20,14 @@ subject | brief
 [class 11](https://dinaalsaid.github.io/code401reading/class-11)|Authentication
 [class 12](https://dinaalsaid.github.io/code401reading/class-12)|des
 [class 13](https://dinaalsaid.github.io/code401reading/class-13)|JWT
-[class 14](https://dinaalsaid.github.io/code401reading/class-14)|des
+[class 14](https://dinaalsaid.github.io/code401reading/class-14)|Access Control (ACL)
 [class 15](https://dinaalsaid.github.io/code401reading/class-15)|des
+[class 16](https://dinaalsaid.github.io/code401reading/class-16)|des
+[class 17](https://dinaalsaid.github.io/code401reading/class-17)|des
+[class 18](https://dinaalsaid.github.io/code401reading/class-18)|des
+[class 19](https://dinaalsaid.github.io/code401reading/class-19)|des
+[class 20](https://dinaalsaid.github.io/code401reading/class-20)|des
+[class 21](https://dinaalsaid.github.io/code401reading/class-21)|des
+[class 22](https://dinaalsaid.github.io/code401reading/class-22)|des
+[class 23](https://dinaalsaid.github.io/code401reading/class-23)|des
+[class 24](https://dinaalsaid.github.io/code401reading/class-24)|des
