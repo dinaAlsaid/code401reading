@@ -24,7 +24,7 @@ JSON Web Token: Is an open standard that will help protect information sent betw
 
 ## RBAC (Role Base Access Control)
 
-Assigning system access to users based on their roles in the organization (estricting system access to authorized users.).
+Assigning system access to users based on their roles in the organization (restricting system access to authorized users.
 
 ### advanntages
 

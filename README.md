@@ -21,8 +21,8 @@ subject | brief
 [class 12](https://dinaalsaid.github.io/code401reading/class-12)|des
 [class 13](https://dinaalsaid.github.io/code401reading/class-13)|JWT
 [class 14](https://dinaalsaid.github.io/code401reading/class-14)|Access Control (ACL)
-[class 15](https://dinaalsaid.github.io/code401reading/class-15)|des
-[class 16](https://dinaalsaid.github.io/code401reading/class-16)|des
+[class 15](https://dinaalsaid.github.io/code401reading/class-15)|Trees
+[class 16](https://dinaalsaid.github.io/code401reading/class-16)|Event Driven Applications
 [class 17](https://dinaalsaid.github.io/code401reading/class-17)|des
 [class 18](https://dinaalsaid.github.io/code401reading/class-18)|des
 [class 19](https://dinaalsaid.github.io/code401reading/class-19)|des
