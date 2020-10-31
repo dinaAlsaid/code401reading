@@ -35,3 +35,9 @@ using `on` method for the EventEmitter we can attach an event listener to it.
 To remove event listeners in EventEmitter we can use the `removeListener` or `removeAllListeners` method.  
 
 [list of events in Node.js](https://nodejs.org/api/events.html)
+
+* Much of the Node.js core API is built around an idiomatic asynchronous event-driven architecture in which certain kinds of objects (called "emitters") emit named events that cause Function objects ("listeners") to be called.  
+* When the EventEmitter object emits an event, all of the functions attached to that specific event are called synchronously. Any values returned by the called listeners are ignored and discarded.  
+* an ordinary listener function is called, the standard this keyword is intentionally set to reference the EventEmitter instance to which the listener is attached.
+* It is possible to use ES6 Arrow Functions as listeners, however, when doing so, the this keyword will no longer reference the EventEmitter instance
+* Using the `eventEmitter.once()` method, it is possible to register a listener that is called at most once for a particular event. Once the event is emitted, the listener is unregistered and then called.
