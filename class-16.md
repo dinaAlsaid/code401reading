@@ -22,3 +22,16 @@ Capabilities
 
 ## Event-driven programming
 
+Event-driven programming is a programming pattern based on performing functions when an event is occuring.
+Node.js provides a module called `EventEmitter` that will help incorporate event driven programming.
+We access the EventEmitter class through the events module. Once imported we’ll need to create a new object from the class to start using it.  
+
+```javascript
+const EventEmitter = require('events').EventEmitter;
+const myEventEmitter = new EventEmitter;
+```
+
+using `on` method for the EventEmitter we can attach an event listener to it.  
+To remove event listeners in EventEmitter we can use the `removeListener` or `removeAllListeners` method.  
+
+[list of events in Node.js](https://nodejs.org/api/events.html)
