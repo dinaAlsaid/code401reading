@@ -23,7 +23,7 @@ subject | brief
 [class 14](https://dinaalsaid.github.io/code401reading/class-14)|Access Control (ACL)
 [class 15](https://dinaalsaid.github.io/code401reading/class-15)|Trees
 [class 16](https://dinaalsaid.github.io/code401reading/class-16)|Event Driven Applications
-[class 17](https://dinaalsaid.github.io/code401reading/class-17)|des
+[class 17](https://dinaalsaid.github.io/code401reading/class-17)|TCP Servers
 [class 18](https://dinaalsaid.github.io/code401reading/class-18)|des
 [class 19](https://dinaalsaid.github.io/code401reading/class-19)|des
 [class 20](https://dinaalsaid.github.io/code401reading/class-20)|des
