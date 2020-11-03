@@ -25,7 +25,7 @@ subject | brief
 [class 16](https://dinaalsaid.github.io/code401reading/class-16)|Event Driven Applications
 [class 17](https://dinaalsaid.github.io/code401reading/class-17)|TCP Servers
 [class 18](https://dinaalsaid.github.io/code401reading/class-18)|Socket.io
-[class 19](https://dinaalsaid.github.io/code401reading/class-19)|des
+[class 19](https://dinaalsaid.github.io/code401reading/class-19)|Message Queues
 [class 20](https://dinaalsaid.github.io/code401reading/class-20)|des
 [class 21](https://dinaalsaid.github.io/code401reading/class-21)|des
 [class 22](https://dinaalsaid.github.io/code401reading/class-22)|des
