@@ -1,6 +1,6 @@
 # Code 401
 
-[PREVIOUS](https://dinaalsaid.github.io/code401reading/class-18) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)&nbsp;[NEXT](https://dinaalsaid.github.io/code401reading/class-20)
+[PREVIOUS](https://dinaalsaid.github.io/code401reading/class-18) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)&nbsp;[NEXT](https://dinaalsaid.github.io/code401reading/class-26)
 
 [table of contents](https://dinaalsaid.github.io/code401reading/)
 
@@ -23,4 +23,3 @@ Web Socket: computer communications protocol, providing full-duplex communicatio
 Socket.io: a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers.
 Client: a piece of computer hardware or software that accesses a service made available by a server
 Server:a piece of computer hardware or software that provides functionality for other programs or devices.
-
