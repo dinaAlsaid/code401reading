@@ -21,7 +21,7 @@ Acceptance Tests:The purpose of this test is to evaluate the system’s complian
 mounting: process by which the operating system makes files and directories on a storage device available for users to access via the computer's file system. in react it happens when the component is first rendered.
 build  
 
-## Lfecycle methods
+## Lifecycle methods
 
 special methods on the component class to run some code when a component mounts and unmounts.  
 `componentDidMount()` method runs after the component output has been rendered to the DOM.  

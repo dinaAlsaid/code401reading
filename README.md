@@ -27,7 +27,7 @@ subject | brief
 [class 18](https://dinaalsaid.github.io/code401reading/class-18)|Socket.io
 [class 19](https://dinaalsaid.github.io/code401reading/class-19)|Message Queues
 [class 26](https://dinaalsaid.github.io/code401reading/class-26)|Component Based UI
-[class 27](https://dinaalsaid.github.io/code401reading/class-21)|Props and State
+[class 27](https://dinaalsaid.github.io/code401reading/class-27)|Props and State
 [class 22](https://dinaalsaid.github.io/code401reading/class-22)|des
 [class 23](https://dinaalsaid.github.io/code401reading/class-23)|des
 [class 24](https://dinaalsaid.github.io/code401reading/class-24)|des
