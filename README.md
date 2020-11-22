@@ -32,5 +32,5 @@ subject | brief
 [class 29](https://dinaalsaid.github.io/code401reading/class-29)|Routing
 [class 30](https://dinaalsaid.github.io/code401reading/class-30)|Hashtables
 [class 31](https://dinaalsaid.github.io/code401reading/class-31)|Hooks API
-[class 32](https://dinaalsaid.github.io/code401reading/class-32)|Hashtables
+[class 32](https://dinaalsaid.github.io/code401reading/class-32)|Custom Hooks
 [class 33](https://dinaalsaid.github.io/code401reading/class-33)|Hashtables
