@@ -34,3 +34,4 @@ subject | brief
 [class 31](https://dinaalsaid.github.io/code401reading/class-31)|Hooks API
 [class 32](https://dinaalsaid.github.io/code401reading/class-32)|Custom Hooks
 [class 33](https://dinaalsaid.github.io/code401reading/class-33)|Context API
+[class 34](https://dinaalsaid.github.io/code401reading/class-34)|Login & Auth
