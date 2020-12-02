@@ -1,6 +1,6 @@
 # Code 401
 
-[PREVIOUS](https://dinaalsaid.github.io/code401reading/class-34) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)&nbsp;[NEXT](https://dinaalsaid.github.io/code401reading/class-36)
+[PREVIOUS](https://dinaalsaid.github.io/code401reading/class-36) &nbsp;[HOME](https://dinaalsaid.github.io/reading-notes/)&nbsp;[NEXT](https://dinaalsaid.github.io/code401reading/class-39)
 
 [table of contents](https://dinaalsaid.github.io/code401reading/)
 
