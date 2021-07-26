@@ -36,3 +36,4 @@ subject | brief
 [class 33](https://dinaalsaid.github.io/code401reading/class-33)|Context API
 [class 34](https://dinaalsaid.github.io/code401reading/class-34)|Login & Auth
 [class 35](https://dinaalsaid.github.io/code401reading/class-35)|Redux
+[Notes 1](https://dinaalsaid.github.io/code401reading/Angular)|Angular
